@@ -4,5 +4,5 @@
 - Ths. Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
 # Thành viên
 - Nguyễn Trung Tuấn -19522477
-- Dương Nguyễn Thuận -
+- Dương Nguyễn Thuận - 19522312
 - Nguyễn Việt Thư - 
