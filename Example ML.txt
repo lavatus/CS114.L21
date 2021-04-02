@@ -1,0 +1,20 @@
+I. Supervised Learning
+	1. Classification
+		- Thư spam (input: thư - output: spam or not spam)
+		- Giày real - giày fake (input: hình ảnh giày - output: fake or real)
+		- Bệnh tim (input: các chỉ số sức khỏe - output:có bệnh hoặc không)
+	2. Regression
+		- Dự đoán giá chứng khoáng (intput: các chỉ số chứng khoáng và giá - output: giá chứng khoáng)
+		- Dự đoán giá nhà đất (input: các chỉ số về diện tích, vị trí, giá, ... - output: giá nhà)
+		- Dự đoán tuổi (input: các đặc điểm ngoại hình: chiều cao, cân nặng, tuổi - output: tuổi)
+II. Unsupersived Learning
+	1. Clustering (phân cụm)
+		- Phân nhóm khách hàng (input: số lần mua, tuổi, chỉ số tài chính,.. -  output: các cụm khách hàng)
+	2. Association
+		- Dự đoán chỉ số hạnh phúc quốc gia (input: các điều kiện sống của cư dân -output: chỉ số hạnh phúc )
+III. Semi-Supervised Learning
+	
+
+
+
+
