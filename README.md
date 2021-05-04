@@ -5,4 +5,4 @@
 # Thành viên
 1. Nguyễn Trung Tuấn -19522477
 2. Dương Nguyễn Thuận - 19522312
-3. Nguyễn Việt Thư - 19522359
+3. Nguyễn Việt Thư - 19522309
