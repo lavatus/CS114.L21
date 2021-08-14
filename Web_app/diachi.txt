@@ -1,0 +1,30 @@
+0:Đường Trần Thủ Độ, Thanh Vân, Rạch Giá, tỉnh Kiên Giang
+1:P. An Hoà, Rạch Giá, tỉnh Kiên Giang
+2:ĐT883, Bình Thới, TT.Bình Đại, tỉnh Bến Tre
+3:Đường 3 Tháng 2, P. An Hoà, Rạch Giá, tỉnh Kiên Giang
+4:TT. Bình Đại, huyện Bình Đại, tỉnh Bến Tre
+5:Đình Thần Nguyễn Trung Trực, Nguyễn Công Trứ, Vĩnh Thanh, Rạch Giá, tỉnh Kiên Giang
+6:Đoàn Hoàng Minh, P. Phú Khương, TP.Bến Tre, tỉnh Bến Tre
+7:ĐT883, Bình Thới, huyện Bình Đại, tỉnh Bến Tre
+8:TT. Bình Đại, huyện Bình Đại, tỉnh Bến Tre
+9:xã An Đức, huyện Ba Tri, tỉnh Bến Tre
+10:Đại Lộ Đồng Khởi, Phường 4, TP.Bến Tre, tỉnh Bến Tre
+11:xã Thạnh Trị, huyện Bình Đại, tỉnh Bến Tre
+12:26A Trần Quốc Tuấn, Phường 4, TP.Bến Tre, tỉnh Bến Tre
+13:A11 - 3/2 Street, Phường Vĩnh Bảo, Rạch Giá, tỉnh Kiên Giang
+14:Cổng Tam Quan, Nguyễn Trung Trực, Vĩnh Lạc, TP.Rạch Giá, tỉnh Kiên Giang
+15:QL 60, Sơn Đông, tỉnh Bến Tre
+16:TL 883,TT.Bình Đại, huyện Bình Đại, tỉnh Bến Tre
+17:Lô E7 khu đô thị Tây Bắc, tỉnh Kiên Giang
+18:TT. Thứ Ba, tx.An Biên, tỉnh Kiên Giang
+19:Cầu 3 Tháng 2, Vĩnh Thanh Vân, Rạch Giá, tỉnh Kiên Giang
+20:Nguyễn Trãi, Phường 2, TP.Bến Tre, tỉnh Bến Tre
+21:8 Lý Thái Tổ, Vĩnh Thanh, Rạch Giá, tỉnh Kiên Giang
+22:Hùng Vương, Phường 3, TP.Bến Tre, tỉnh Bến Tre
+23:Nguyễn Công Trứ, Thanh Vân, Rạch Giá, tỉnh Kiên Giang
+24:Thanh Vân, Rạch Giá, tỉnh Kiên Giang
+25:Cô Bắc, Phường Vĩnh Bảo, Rạch Giá, tỉnh Kiên Giang
+26:TT. Bình Đại, huyện Bình Đại, tỉnh Bến Tre
+27:Bảo Thuận, huyện Ba Tri, tỉnh Bến Tre
+28:Nguyễn Đình Chiễu, TT. Ba Tri, huyện Ba Tri, tỉnh Bến Tre
+29:Mỹ Thạnh An, tỉnh Bến Tre

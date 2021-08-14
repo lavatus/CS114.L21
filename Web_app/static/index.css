@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(30,30,30);
+}
+.content{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.get-img{
+    margin-top: 5%;
+}
+.text-center{
+    color: white;
+}

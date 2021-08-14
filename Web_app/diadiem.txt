@@ -1,0 +1,30 @@
+0:Ngọn hải đăng
+1:Vòng xoay Phú Gia
+2:Thánh Thất Bình Thới
+3:Vòng xoay Phan Thị Ràng
+4:Trung tâm văn hóa
+5:Đền thờ Nguyễn Trung Trực
+6:Sân Vận động tỉnh Bến Tre
+7:Nhà thờ huyện Bình Đại
+8:Trung tâm thể dục thể thao
+9:Lăng cụ Nguyễn Đình Chiểu
+10:Công viên Đồng Khởi
+11:Đập Ba Lai
+12:Sense City Bến Tre
+13:Khách sạn SeaLight
+14:Cổng Tam Quan
+15:Go Bến Tre
+16:Chùa Vạn Phước
+17:MeKong school
+18:Chùa Sirivansa
+19:Cầu 3 tháng 2
+20:Chợ Bến Tre
+21:Chợ 30 tháng 4
+22:Bảo tàng tỉnh Bến Tre
+23:Cầu đi bộ
+24:Cầu cống sông Kiên
+25:Chùa Phổ Minh
+26:Chùa Đông Phước
+27:Biển cồn Nhàn
+28:Chợ Ba Tri
+29:Quảng trường Bến Tre
