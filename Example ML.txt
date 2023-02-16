@@ -13,6 +13,8 @@ II. Unsupersived Learning
 	2. Association
 		- Dự đoán chỉ số hạnh phúc quốc gia (input: các điều kiện sống của cư dân -output: chỉ số hạnh phúc )
 III. Semi-Supervised Learning
+IV. Test xíu cái mới.
+
 	
 
 
